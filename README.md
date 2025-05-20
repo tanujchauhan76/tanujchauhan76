@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanujchauhan
 - 👀 I’m interested in the web software development and testing.
-- 🌱 I’m currently learning cloud computing besides polishing my skills in PHP, CMS Platforms and modern web technologies.
+- 🌱 I’m currently learning cloud computing besides polishing my skills in Java, React, CMS Platforms and modern web technologies.
 - 💞️ I’m looking to collaborate on creative solutions.
 - 📫 How to reach me : email at tanujchauhan76@gmail.com
 
